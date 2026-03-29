@@ -6,7 +6,8 @@ Lecture by [Kirill Khrylchenko](https://github.com/KhrylchenkoKirill)
 Seminar by [Sergei Makeev](https://github.com/neuralsrg) and [Alexandr Andreev](https://github.com/Alex-Andrv)
 
 Youtube:
-* TODO
+* [Lecture](https://www.youtube.com/watch?v=CUTT5NZWvNM)
+* [Seminar](https://youtu.be/pwIY24AXWKY)
 
 This week we finish our discussion of transformer models and then proceed to graph neural networks for recommendations:
 
