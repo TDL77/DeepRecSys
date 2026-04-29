@@ -13,6 +13,7 @@ This is a course on Deep Learning-based Recommender Systems taught at HSE Univer
     7. [Sequential Recommenders](./week_07)
     8. [Graph Neural Networks](./week_08)
     9. [Ads Ranking at Yandex](./week_09)
+    10. [Reinforcement Learning](./week_10)
 </pre></big>
 
 ## Contributors 
