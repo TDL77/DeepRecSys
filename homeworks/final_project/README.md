@@ -11,7 +11,7 @@
 * [TokenMixer-Large: Scaling Up Large Ranking Models in Industrial Recommenders](https://arxiv.org/abs/2602.06563)
 * [OneTrans: Unified Feature Interaction and Sequence Modeling with One Transformer in Industrial Recommender](https://arxiv.org/abs/2510.26104)
 * [MixFormer: Co-Scaling Up Dense and Sequence in Industrial Recommenders](https://arxiv.org/abs/2602.14110)
-* [Retrieval with Learned Similarities] (https://arxiv.org/abs/2407.15462)
+* [Retrieval with Learned Similarities](https://arxiv.org/abs/2407.15462)
 * [Empowering Long-tail Item Recommendation through Cross Decoupling Network (CDN)](https://arxiv.org/abs/2210.14309)
 * [Modeling Task Relationships in Multi-task Learning withMulti-gate Mixture-of-Experts](https://dl.acm.org/doi/pdf/10.1145/3219819.3220007)
 
