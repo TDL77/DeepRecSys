@@ -15,9 +15,8 @@ This is a course on Deep Learning-based Recommender Systems taught at HSE Univer
     9. [Ads Ranking at Yandex](./week_09)
     10. [Reinforcement Learning](./week_10)
     11. [Reinforcement Learning II](./week_11)
-    12. Generative Models
+    12. [Generative Recommendations](./week_12)
     13. Guest Lecture II
-    14. Generative Models II
 </pre></big>
 
 ## Contributors 
