@@ -17,6 +17,7 @@
 - методы деления на train/test split в рекомендациях
 - Recall@K
 - NDCG@K
+- метрики качества на тяжелом хвосте
 - position bias
 
 ### Candidate generation / retrieval
