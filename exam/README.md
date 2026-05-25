@@ -121,7 +121,7 @@ Multi-interest retrieval, mixture-of-logits, GPU retrieval, generative retrieval
 ## 4. Sequential recommenders
 
 **Билет 16. Моделирование пользователя в ранжирующих моделях**  
-Как использовать историю пользователя в ранжирующих моделях. Пулинг событий, target-aware attention, DIN, BST, TransAct. Отличие от next-item prediction.
+Как использовать историю пользователя в ранжирующих моделях. Пулинг событий, target-aware attention, DIN, BST, TransAct, OneTrans. Отличие от next-item prediction.
 
 **Билет 17. Sequential recommenders**
 Next-item prediction. Академический подход, GRU4Rec, SASRec, BERT4Rec-like постановки. Индустриальный подход - PinnerFormer.
