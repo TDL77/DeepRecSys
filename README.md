@@ -16,7 +16,7 @@ This is a course on Deep Learning-based Recommender Systems taught at HSE Univer
     10. [Reinforcement Learning](./week_10)
     11. [Reinforcement Learning II](./week_11)
     12. [Generative Recommendations](./week_12)
-    13. Guest Lecture II
+    13. [Sber AI Lab recsys papers review](./week_13)
 </pre></big>
 
 ## Contributors 
@@ -26,3 +26,5 @@ This is a course on Deep Learning-based Recommender Systems taught at HSE Univer
 * [Vladimir Baikalov](https://github.com/NonameUntitled)
 * [Sergei Makeev](https://github.com/neuralsrg)
 * [Alexandr Andreev](https://github.com/Alex-Andrv)
+* [Margarita Mishustina](https://github.com/rita1302)
+* [Alexey Vasilev](https://github.com/AleXXL1986)
